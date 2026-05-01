@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpanishFootballChampionship", "src\SpanishFootballChampionship\SpanishFootballChampionship.csproj", "{E7AF6E38-A9C1-4E1A-A482-8705714FBD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpanishFootballChampionship.Tests", "tests\SpanishFootballChampionship.Tests\SpanishFootballChampionship.Tests.csproj", "{6F7FE019-A141-41D5-8E52-7D12B77BE4E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7AF6E38-A9C1-4E1A-A482-8705714FBD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AF6E38-A9C1-4E1A-A482-8705714FBD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AF6E38-A9C1-4E1A-A482-8705714FBD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AF6E38-A9C1-4E1A-A482-8705714FBD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7FE019-A141-41D5-8E52-7D12B77BE4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7FE019-A141-41D5-8E52-7D12B77BE4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7FE019-A141-41D5-8E52-7D12B77BE4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7FE019-A141-41D5-8E52-7D12B77BE4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
